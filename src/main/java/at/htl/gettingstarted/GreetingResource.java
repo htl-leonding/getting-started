@@ -14,6 +14,6 @@ public class GreetingResource {
     @Produces({MediaType.APPLICATION_JSON, MediaType.TEXT_PLAIN})
     public Person hello() {
 
-        return new Person("John","Doe");
+        return new Person("Jane","Doe");
     }
 }
