@@ -1,0 +1,5 @@
+GET localhost:8080/api/hello
+Accept: text/plain
+
+###
+
